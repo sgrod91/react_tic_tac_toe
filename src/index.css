@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+button {
+float: left;
+width: 33.33333333%;
+height: 100px;
+font-size: 5em;
+border: 2px dashed gray;
+
+}
